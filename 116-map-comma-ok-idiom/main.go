@@ -65,6 +65,7 @@ func main() {
 }
 
 /*
+test
 Create a slice of a slice of string ([][]string). Store the following data in the multi-dimensional
 slice:
 "James", "Bond", "Shaken, not stirred"
