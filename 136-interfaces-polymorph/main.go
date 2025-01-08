@@ -19,6 +19,8 @@ func (sa secretAgent) speak() {
 	fmt.Println("I a secret agent", sa.first)
 }
 
+// inteface: hey if you got these methods, then you're my type.
+// person has speak method and SA have this method.
 type human interface {
 	speak()
 }
